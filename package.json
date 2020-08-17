@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open --port 3005",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "parcel-bundler": "^1.6.1"
+  }
+}
